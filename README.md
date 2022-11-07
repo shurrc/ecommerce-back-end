@@ -15,7 +15,7 @@ Enter git clone into you command line followed by the link provided by the repo.
     
 ## Usage
 Use insomnia to check the routes, change data in the seed files to alter the database.
-https://drive.google.com/file/d/1-VjrenJEM6vKvWO5sS_OvSZfB1TPsHoY/view
+https://drive.google.com/file/d/1nyHGVmElGciSnCDPkyvak-hLilIfnCZj/view
 ## Credits
 dotenv, express, mysql2, mysql, sequilize.
 
